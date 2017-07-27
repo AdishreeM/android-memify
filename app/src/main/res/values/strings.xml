@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MazApp</string>
+    <string name="topInputHint">Top Line</string>
+    <string name="bottomInputHint">Bottom Line</string>
+</resources>
